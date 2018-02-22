@@ -4,13 +4,8 @@ Firebase Authentication aims to make building secure authentication systems easy
 Email/Password Setup-
 
 Go to the Firebase Console and navigate to your project:
-
 Select the Auth panel and then click the Sign In Method tab.
-
 Click Email/Password and turn on the Enable switch, then click Save.
-
 Run the app on your device or emulator.
-
 Select EmailPasswordActivity from the main screen.
-
 Fill in your desired email and password and click Create Account to begin.
